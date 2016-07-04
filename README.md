@@ -1,3 +1,6 @@
+[![tag][a]][1]
+[![release][b]][2]
+[![download][c]][3]
 # Table of Contents <a name="anchor_main"></a>
 ---
 1. [omok.py](#anchor_1) <br></br>
@@ -27,10 +30,16 @@
 * Main part; Diplay -> Initialization & Play -> Win? -> Display -> Initialization & Play -> Win? -> Display -> Initialization & Play -> Win? -> ...
 
 ## References <a name="anchor_5"></a> [top](#anchor_main)
-Please check Git repo for [latest update][1]
+Please check Git repo for [latest update][4]
 
 Please send any questions to: <kwb425@icloud.com>
 
 <!--Links to addresses, reference Markdowns-->
-[1]: https://github.com/kwb425/Omok.git
+[1]: https://github.com/kwb425/Omok/tags
+[2]: https://github.com/kwb425/Omok/releases
+[3]: https://github.com/kwb425/Omok/releases
+[4]: https://github.com/kwb425/Omok.git
 <!--Links to images, reference Markdowns-->
+[a]: https://img.shields.io/badge/Tag-v1.3-red.svg?style=plastic
+[b]: https://img.shields.io/badge/Release-v1.3-green.svg?style=plastic
+[c]: https://img.shields.io/badge/Download-Click-blue.svg?style=plastic
